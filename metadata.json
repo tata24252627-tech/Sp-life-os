@@ -1,0 +1,6 @@
+{
+  "name": "SP LIFE OS – Ultimate Edition",
+  "description": "Production-grade unified personal operating environment with Master Data spreadsheets, Daily Work, Business Hub CRM, Finance Tracker, AI Assistant, 16 Utilities, Dynamic Module Builder, and Onboarding Flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
